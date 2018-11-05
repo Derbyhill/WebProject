@@ -3,7 +3,7 @@
 }
   #about_yellow{
     margin-top: 30px;
-    border: SOLID black ;
+    border: SOLID green ;
     background: #FFEBCD;
   }
   #about_blue{
@@ -11,7 +11,7 @@
 
   }
   #about_blue li {
-    color: blue
+    color: purple
   }
   #about_yellow li {
     color: orange
