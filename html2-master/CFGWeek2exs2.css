@@ -1,0 +1,29 @@
+#about_blue {
+  border: SOLID black ;
+}
+  #about_yellow{
+    margin-top: 30px;
+    border: SOLID black ;
+    background: #FFEBCD;
+  }
+  #about_blue{
+    background: #6495ED;
+
+  }
+  #about_blue li {
+    color: blue
+  }
+  #about_yellow li {
+    color: orange
+  }
+  .important {
+    font-size: 16px;
+    font-weight: bold ;
+  }
+  ul.nav li{
+    border: SOLID red 3px;
+    background-color: red;
+  }
+  ul.nav li a {
+    color: white;
+  }
